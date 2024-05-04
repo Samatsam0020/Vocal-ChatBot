@@ -1,0 +1,7 @@
+openai==0.28
+openai-whisper == 20231117
+sounddevice == 0.4.6
+scipy == 1.13.0
+streamlit == 1.33.0
+pygame == 2.5.2
+gtts == 2.5.1
