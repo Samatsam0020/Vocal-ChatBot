@@ -43,7 +43,10 @@ streamlit run app.py
 
     Voice Input: Click the "Commencer" button to start recording your voice input, and the bot will respond accordingly.
 
-Usage
+
+## Contact
+
+📬 For any inquiries or feedback, feel free to reach out to me at [ssamat0020@gmail.com].
 
     🎤 ChatBot Mode: Speak to the chatbot and receive voice responses.
     🌐 Translation Mode: Speak in French, and the chatbot will translate and respond in English.
