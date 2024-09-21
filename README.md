@@ -37,12 +37,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 
-    Interact with the ChatBot:
-        Select "ChatBot" to start a conversation with the SAM ChatBot.
-        Choose "Traduction Français-Anglais" to translate spoken French sentences into English.
+Interact with the ChatBot:
+Select "ChatBot" to start a conversation with the SAM ChatBot.
+Choose "Traduction Français-Anglais" to translate spoken French sentences into English.
 
-    Voice Input: Click the "Commencer" button to start recording your voice input, and the bot will respond accordingly.
-
+Voice Input: Click the "Commencer" button to start recording your voice input, and the bot will respond accordingly.
 
 ## Contact
 
